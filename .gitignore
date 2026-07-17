@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+.pio/
+.pioenvs/
+.pio/build/
+.pio/libdeps/
+*.bin
+*.elf
+*.map
+*.hex
+*.o
+*.a
+.DS_Store
+Thumbs.db
+*.log
