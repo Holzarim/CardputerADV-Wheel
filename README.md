@@ -31,5 +31,3 @@ q - Gamepad Button 3
 
 Arduino IDE Setup:
 
-In Tools menu set:
-USB Mode: USB-OTG (TinyUSB)
