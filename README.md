@@ -29,5 +29,4 @@ q - Gamepad Button 3
 
 ` - Gamepad Button 1
 
-Arduino IDE Setup:
 
